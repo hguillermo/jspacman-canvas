@@ -1,0 +1,47 @@
+-     DONE - Fix bug when changing directions a ghost can be stucked (in a tile that is intersection)
+-     DONE - Fix bug when eating a ghost leaving the house. It will get stucked.
+-     LATER - Fix bug when ghost are in the tunnel and also blue getting out of the tunnel (weird blink colors)
+-     LATER - Ghosts changing directions randomly
+-     LATER - 2up blinking
+-     LATER - Add the persecution in the demo screen
+-     LATER - sounds - contact Melania
+-     LATER - Background music going faster when less dots are in the screen
+-     LATER - 2 players
+-     LATER - Fix bug when ghost are in blue sometimes pacman dies eating them in the limit time.
+-     DONE - Fix bug 'player 1' text over red ghost at the beginning
+-     DONE - Fix bug when ghost are in the tunnel. They will appear outsite 
+-     DONE - Fix bug when the ghosts are in eye mode leaving the tunnel they don't change speed to fast.
+-     DONE - Fix bug after finishing a level there is no more dots
+-     DONE - Fix bug mouth shoudl be closed after finishing the level
+-     DONE - Fix bug. Extra life in 50k points
+-     DONE - Redo the demoscreen like the original one
+-     DONE - Rest lives when pacman dies
+-     DONE - Make game finish when there are no more lifes
+-     DONE - Ghosts and Pacman over dots - use sort
+-     DONE - Fruits in HUD no more than 8 at a time (9?)
+-     DONE - Blue time according to the level
+-     DONE - Fruit points and freezing the world for few ms
+-     DONE - Avoid pacman going to the ghost house
+-     DONE - n1up blinking
+-     DONE - Ghosts changing directions after pacman eats big dot
+-     DONE - Ghosts slowing down in the tunnel
+-     DONE - Redo the introscreen like the original one
+-     DONE - Pacman slowing down when eating dots
+-     DONE - All pacmans in the hud and later 1 in the maze feature
+-     DONE - Feature Ready in yellow letter
+-     DONE - Fix bug. Pacman show after eating a ghost. It should be invisible for a while.
+-     DONE - Fix bug, not change directions when ghost is in home
+-     DONE - If all four ghosts are captured at all four energizers, an additional 12,000 points can be earned.
+
+---------------------------------------------------------------------------------
+- DONE - Ghost over dots
+- best way to load images? preloading it?
+- CANCELED - move the level down?
+- CANCELED - make the game area bigger?
+- DONE - put the ghosts on top of pacman (use zIndex)
+
+---------------------------------------------------------------------------------
+- Dot entities
+- Splash screen
+- Animations-stop the world
+- Difference between update(1st) and draw(second for drawing)
