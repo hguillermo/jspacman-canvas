@@ -9,13 +9,13 @@ There are a few things to do:
 
 2. Add the sounds
 
-3. Fix some bugs (sometimes the bugs gets stucked)
+3. Fix some bugs (sometimes the ghosts get stucked)
 
-4. Do optimizations
+4. Do some optimizations
 
 5. Add a multiplayer feature
 
-This game is property of Namco. I am just trying to help people who wants to write/learn how to code games.
+This game is property of Namco Bandai. I am just trying to help people who wants to write/learn how to code games.
 
 I took a lot of ideas from this web site: http://home.comcast.net/~jpittman2/pacman/pacmandossier.html
 
