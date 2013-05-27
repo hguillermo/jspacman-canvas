@@ -24,7 +24,9 @@ Please read that and you will understand how amazing is the pacman game. I did m
 You can play the game here:
 
 http://hg10101.com/games/jspacman/index.html
+
 http://www.fastcolabs.com/3010050/v0/pac-man-vs-us-honoring-the-33rd-birthday-of-a-video-game
+
 http://www.fastcocreate.com/1683023/how-pac-man-changed-games-and-culture
 
 Enjoy!
