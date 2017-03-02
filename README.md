@@ -17,7 +17,7 @@ There are a few things to do:
 
 This game is property of Namco Bandai. I am just trying to help people who wants to write/learn how to code games.
 
-I took a lot of ideas from this web site: http://home.comcast.net/~jpittman2/pacman/pacmandossier.html
+I took a lot of ideas about the game and ghoster's AI from this web site: http://www.gamasutra.com/view/feature/3938/the_pacman_dossier.php
 
 Please read that and you will understand how amazing is the pacman game. I did my best (well...almost) to make it perfect and pretty similar to the arcade version. If you have suggestions let me know.
 
