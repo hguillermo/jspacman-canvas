@@ -1,7 +1,7 @@
 jspacman - ImpactJS
 =================
 
-This is my second try writing a javascript pacman clone. This time I decided to use Impact.js which is a very nice javascript game engine (I highly recommend you to buy it. It really worth it! http://impactjs.com/)
+This is my second try writing a javascript pacman clone. This time I decided to use Impact.js which is a very nice javascript game engine (I highly recommend you to buy it. It is really worth it! http://impactjs.com/)
 
 There are a few things to do:
 
