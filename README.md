@@ -9,9 +9,9 @@ There are a few things to do:
 
 2. Add the sounds
 
-3. Fix some bugs (sometimes the ghosts get stucked)
+3. Fix some bugs (sometimes the ghosts get stuck)
 
-4. Do some optimizations
+4. Do some optimizations for 60 fps
 
 5. Add a multiplayer feature
 
