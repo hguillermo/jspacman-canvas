@@ -21,9 +21,7 @@ I took a lot of ideas about the game and ghoster's AI from this web site: http:/
 
 Please read that and you will understand how amazing is the pacman game. I did my best (well...almost) to make it perfect and pretty similar to the arcade version. If you have suggestions let me know.
 
-You can play the game here:
-
-http://www.hg10101.com/games/jspacman/index.html
+You can read more about the game here:
 
 http://www.fastcolabs.com/3010050/v0/pac-man-vs-us-honoring-the-33rd-birthday-of-a-video-game
 
